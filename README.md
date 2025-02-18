@@ -37,16 +37,19 @@ Before proceeding, all resistors and capacitors should be measured using a DMM. 
 
 Measure voltage at test points T1, T2, T3, and T4. Once the circuit is built, make sure that the DC power supply is set for five volts and measure the voltage output with the DMM. Make sure that the output on the DMM is no more or no less than 5.01 or 4.99 volts. 
 Now that the voltage is secure, and the circuit is built we can begin measuring our voltages at each of the testing points. These are labeled T1, T2, T3, and T4. Be aware when measuring the voltage at each of these testing points with the DMM it should be with respect to ground, in this case, T4. Therefore, the black node of the DMM should be placed here when measuring throughout the experiment. If the red node of the DMM were placed here, a negative reading would show, that is why the black node is preferred in this scenario. Here are the testing locations:
-
-It can be expected that T1 measures five volts but could deviate some due to small voltage drops. Now, measure the voltage at T2 and T3 with the switch on and the switch off and record the results on the table. Next, measure the voltage drop across R1, the LED, and the switch with the switch on and the switch off and record these results in a table. Last, the current through the LED needs to be measured. To do so, switch the red lead of the DMM and make sure it is set to read current. Another important note is that to be able to measure current, the circuit needs to be broken at one point to attach the nodes to that way the circuit remains in series. Record the measured current through the LED with the switch on and switch off and record the results in a table. 
-
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/Fig2-testing%20for%20circuit%201.jpg" width="120">
   <br>
   <b>Figure 2:</b> Testing Locations for Circuit 1.
 </p>
+It can be expected that T1 measures five volts but could deviate some due to small voltage drops. Now, measure the voltage at T2 and T3 with the switch on and the switch off and record the results on the table. Next, measure the voltage drop across R1, the LED, and the switch with the switch on and the switch off and record these results in a table. Last, the current through the LED needs to be measured. To do so, switch the red lead of the DMM and make sure it is set to read current. Another important note is that to be able to measure current, the circuit needs to be broken at one point to attach the nodes to that way the circuit remains in series. Record the measured current through the LED with the switch on and switch off and record the results in a table. 
 
-
+The next circuit that will be built is a bit bigger and should look as follows:
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Fig3.jpg" width="500">
+  <br>
+  <b>Figure 3:</b> Circuit 2 – Two voltage supplies, potentiometer, 1000-ohm and 270-ohm resistor, and LED.
+</p>
 
 ## Results
 ### Part 1: LED Driving Circuits
@@ -93,7 +96,7 @@ After using the potentiometer to change the voltage, the following tables and gr
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/LED%20Brightness%20Characteristics%20Graph.jpg" width="600">
   <br>
-  <b>Figure 3:</b> LED Brightness Characteristics Graph
+  <b>Figure 4:</b> LED Brightness Characteristics Graph
 </p>
 
 
@@ -115,7 +118,7 @@ After using the potentiometer to change the voltage, the following tables and gr
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/Transistor%20Characteristics%20Graph.jpg" width="600">
   <br>
-  <b>Figure 4:</b> Transistor Characteristics Graph
+  <b>Figure 5:</b> Transistor Characteristics Graph
 </p>
 
 ## Discussion
