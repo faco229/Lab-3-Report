@@ -106,9 +106,17 @@ After using the potentiometer to change the voltage, the following tables and gr
 </p>
 
 
-#### Table 6: Transistor Characteristics Table
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Transistor%20Characteristics%20Table.jpg" width="600">
+  <br>
+  <b>Table 6:</b> Transistor Characteristics Table
+</p>
 
-**Figure 4: Transistor Characteristics Graph**  
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Transistor%20Characteristics%20Graph.jpg" width="600">
+  <br>
+  <b>Figure 4:</b> Transistor Characteristics Graph
+</p>
 
 ## Discussion
 ### Discussion Question 1: How does the current through the LED compare between circuits 1 and 2?
