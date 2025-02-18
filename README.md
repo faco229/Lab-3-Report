@@ -134,9 +134,16 @@ After using the potentiometer to change the voltage, the following tables and gr
 </p>
 
 <p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/BJT%20Lecture.jpg" width="600">
+  <br>
+  <b>Image 2:</b> Lecture on BJT (Bipolar Junction Transistor)-Semiconductor acting as an amplifier.
+</p>
+
+
+<p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/Motor%20attached%20to%20circuit%20at%20fast%20speed.jpg" width="500">
   <br>
-  <b>Image 2:</b> Circuit used for esting various motor speeds.
+  <b>Image 3:</b> Circuit used for esting various motor speeds.
 </p>
 
 
