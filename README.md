@@ -51,6 +51,12 @@ The next circuit that will be built is a bit bigger and should look as follows:
   <b>Figure 3:</b> Circuit 2 – Two voltage supplies, potentiometer, 1000-ohm and 270-ohm resistor, and LED.
 </p>
 
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Image1-LED%20at%20full%20brightness.jpg" width="500">
+  <br>
+  <b>Image 1:</b> Completed LED circuit - LED at full brightness.
+</p>
+
 **INSERT THE PART QUINN IS WORKING ON**
 
 
