@@ -98,15 +98,16 @@ After using the potentiometer to change the voltage, the following tables and gr
 
 
 ### Part 2: Motor Driving Circuit
-#### Table 5: Controlling Motor Current and Speed using a Transistor
-| Test Point | Slow Motor | Midpoint 1 | Midpoint 2 | Fast Motor |
-|------------|------------|-----------|-----------|-----------|
-| T2        | 4.85V     | 4.79V     | 4.78V     | 4.76V     |
-| T3 (VCE)  | 3.42V     | 0.46V     | 0.77V     | 0.1V      |
-| T5 (VBE)  | 0.65V     | 0.68V     | 0.69V     | 0.71V     |
-| T6        | 1.05V     | 1.40V     | 1.31V     | 4.96V     |
+
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Table5.jpg" width="600">
+  <br>
+  <b>Table 5:</b> Controlling Motor Current and Speed using a Transistor
+</p>
+
 
 #### Table 6: Transistor Characteristics Table
+
 **Figure 4: Transistor Characteristics Graph**  
 
 ## Discussion
