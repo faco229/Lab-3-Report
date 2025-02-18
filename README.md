@@ -66,6 +66,15 @@ The next circuit that will be built involves controlling the amount of light pro
   <b>Figure 4:</b> Circuit 3 - two resistors, a potentiometer, an LED, and a transistor.
 </p>
 
+Again, the idea is that with the transistor it can control the amount of current getting through to the LED will ultimately affect the amount of light that the LED produces. When starting to take measurements, get the LED to show as dimly as possible. Utilizing the potentiometer for this part of the experiment, the voltage at T6 is what will be recorded. Take the dim measurement at the voltage level where the light is barely visible and take the bright measurement at the lowest voltage amount that is producing the most amount of light. The two midway points mentioned earlier will lie between the dim and bright voltage measurements. With the LED producing a dim light, measure the voltage drop at T2, T3, T5, T6, R1, the LED, and R2. Record the results in a table. Repeat this process at two midway points and record the results. Lastly, repeat this process again when the LED is shining the brightest. Record the voltage drop across each of the elements. Similarly to the other circuits constructed thus far, the current needs to be measured at each of the light settings. To measure the current, make sure the leads of the DMM are in the correct position and that the DMM is set to read amps. Once these steps have been ensured, an element in the circuit will have to be broken to have the nodes of the DMM in series with the circuit. Once all these steps are completed there will be a current reading. Record the results on a table and repeat this process for both midpoints and the bright setting of the LED. 
+Now, the last circuit is to be built. It should look as follows:
+
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Fig%205.jpg" width="500">
+  <br>
+  <b>Figure 5:</b> Circuit 4 -Diode, motor, and transistor.
+</p>
+
 
 ## Results
 ### Part 1: LED Driving Circuits
@@ -114,7 +123,7 @@ After using the potentiometer to change the voltage, the following tables and gr
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/LED%20Brightness%20Characteristics%20Graph.jpg" width="600">
   <br>
-  <b>Figure 5:</b> LED Brightness Characteristics Graph
+  <b>Figure 6:</b> LED Brightness Characteristics Graph
 </p>
 
 
@@ -136,7 +145,7 @@ After using the potentiometer to change the voltage, the following tables and gr
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/Transistor%20Characteristics%20Graph.jpg" width="600">
   <br>
-  <b>Figure 6:</b> Transistor Characteristics Graph
+  <b>Figure 7:</b> Transistor Characteristics Graph
 </p>
 
 <p align="center">
