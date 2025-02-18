@@ -154,6 +154,16 @@ After using the potentiometer to change the voltage, the following tables and gr
 
 
 ## Discussion
+Graph interpretation:
+In Figure 4: Transistor Characteristics Graph, the current collector (IC) is fairly consistent with the other categories, but the IB is much higher compared to the other settings. The following equation is needed to find gain (β): 
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Calc_Gain.jpg" width="100">
+  <br>
+  <b>Equation 1:</b> Circuit used for esting various motor speeds.
+</p>
+
+Even though the collector current remains stable, the increased IB reduces the ratio, which lowers the gain. In addition, motors consume a lot of current, especially compared to the small, dimmable LED light. This means the first time we really saw current was when the motor was at full speed. 
+
 ### Discussion Question 1: How does the current through the LED compare between circuits 1 and 2?
 - T2 (Collector Voltage): **VC = 4.76V**
 - T3 (Emitter Voltage): **VE = 4.66V**
@@ -161,7 +171,7 @@ After using the potentiometer to change the voltage, the following tables and gr
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/Calc_discussion1.jpg" width="400">
   <br>
-  <b>Equation 1:</b> Transistor Characteristics Graph
+  <b>Equation 2:</b> Transistor Characteristics Graph
 </p>
 
 
@@ -179,7 +189,7 @@ The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We wo
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/Calc_discussion2.jpg" width="400">
   <br>
-  <b>Equation 2:</b> Transistor Characteristics Graph
+  <b>Equation 3:</b> Transistor Characteristics Graph
 </p>
 
 
