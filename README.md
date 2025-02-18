@@ -25,7 +25,13 @@ Before going any further in the experiment, all resistors and capacitors should 
 The first task in this experiment involves building a small circuit with the 270-ohm resistor, and LED, and a switch. Before building the circuit, record the resistor values of the resistor(s) being used in that specific circuit. The first circuit should look as follows:
 
 ### Circuit 1
-**Figure 1: Circuit 1 – A resistor, LED, and switch in series with five volts supplied.**  
+**Figure 1: Circuit 1 – A resistor, LED, and switch in series with five volts supplied.** 
+<p align="center">
+  <img src="https://github.com/faco229/Lab-2-Report/blob/main/Image5.Blank%20Circuit.jpg" width="500">
+  <br>
+  <b>Figure 1:</b> Circuit 1 - A resistor, LED, and Switch in series with five volts supplied.
+</p>
+
 
 Before proceeding, all resistors and capacitors should be measured using a DMM. For these measurements, see Table 1.
 
