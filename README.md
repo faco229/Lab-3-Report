@@ -76,6 +76,7 @@ Now, the last circuit is to be built. It should look as follows:
   <b>Figure 5:</b> Circuit 4 -Diode, motor, and transistor.
 </p>
 
+In the last circuit, the voltage measured were compared to the other voltages measured at different levels of light produced by the LED. For this last part of the experiment, the voltages will be measured with different motor speeds. There will be a slow motor point, two midway points, and lastly the fast motor. Once the circuit has been constructed, the DMM can be used to measure voltage drops across different elements. With the motor operating in a slow manner, record the voltage at T2, T3, T5, T6, R1, M1, and R2. An important note is that R1 was swapped out for this last part of the experiment. Make sure resistor values are tested with the DMM and recorded before entering them into the circuit. Repeat this process of recording the voltage at the different testing locations and elements for the two midway points and for the fast motor scenario and record the results in a table. Lastly, as done in all the other circuits, the current will be measured with the different motor speed settings across M1 and R2. To measure the current, ensure that the DMM leads are correctly positioned and that the DMM is set to read the current. Once that is done, break the circuit to measure current in series. Record the results on a table. 
 
 ## Results
 ### Part 1: LED Driving Circuits
@@ -212,3 +213,10 @@ Meeting the current needs of the LED with the switch proved to be challenging in
 
 ## Conclusion
 The goal of this lab was to explore the functionality and the importance of transistors as switches and their role in controlling circuits. By building various circuit configurations, we examined voltage drops, current flow, and transistor characteristics in LED and motor control applications. The work involved building multiple circuits, measuring voltages and currents, and analyzing transistor performance in different configurations. We observed how transistors amplify small currents to control larger loads, making them essential for driving higher-power components such as motors. Through our findings, we confirmed that transistors effectively regulate voltage and current, improving circuit efficiency. Our measurements indicated that transistors in saturation mode provide minimal voltage drop, allowing for efficient switching. Additionally, we found that motors require significantly more current than LEDs, necessitating the use of a transistor to handle the higher current demand. The outcome provided valuable insights into how transistors regulate current and voltage, effectively acting as electronic switches. This lab reinforced the practical importance of transistors in circuit design and highlighted the need for precise voltage and current measurements to optimize performance.
+
+
+### Acknowledgment
+This document was formatted with assistance from ChatGPT.
+
+```plaintext
+ChatGPT. (2025). Assistance in formatting lab report to Markdown/LaTeX. OpenAI. Retrieved from https://openai.com
