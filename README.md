@@ -82,14 +82,20 @@ The following data was collected based on the circuit configuration in Figure 2:
 | T5 (VBE)  | 0.695V            | 0.005V           |
 | T6        | 5.0V              | 0.001V           |
 
-#### Table 4: LED Brightness Characteristics
+After using the potentiometer to change the voltage, the following tables and graphs were created to display the results of our findings:
 <p align="center">
-  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Fig1-Circuit%201.jpg" width="500">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/LED%20Brightness%20Characteristics%20Chart.jpg" width="500">
   <br>
-  <b>Table 4:</b> LED Brightness Characteristics
+  <b>Table 4:</b> LED Brightness Characteristics Table
 </p>
 
-**Figure 3: LED Brightness Characteristics Graph**  
+
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/LED%20Brightness%20Characteristics%20Graph.jpg" width="600">
+  <br>
+  <b>Figure 3:</b> LED Brightness Characteristics Graph
+</p>
+
 
 ### Part 2: Motor Driving Circuit
 #### Table 5: Controlling Motor Current and Speed using a Transistor
