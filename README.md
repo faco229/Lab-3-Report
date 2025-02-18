@@ -5,6 +5,7 @@
 **Date:** 2/17/2025  
 
 ## Introduction
+The objective of this lab was to investigate how transistors operate as switches and their application in managing circuits. Through assembling different circuit setups, we looked into voltage variations, current behavior, and transistor properties in contexts such as LED and motor control. The tasks included constructing several circuits, recording voltage and current measurements, and assessing transistor behavior in various conditions. This exercise offered significant understanding of the way transistors modulate current and voltage, serving effectively as electronic switches.
 
 ## Methods/Tests
 To repeat this experiment, a few components will be needed:
@@ -164,7 +165,7 @@ After using the potentiometer to change the voltage, the following tables and gr
 
 ## Discussion
 Graph interpretation:
-In Figure 4: Transistor Characteristics Graph, the current collector (IC) is fairly consistent with the other categories, but the IB is much higher compared to the other settings. The following equation is needed to find gain (β): 
+In Figure 7: Transistor Characteristics Graph, the current collector (IC) is fairly consistent with the other categories, but the IB is much higher compared to the other settings. The following equation is needed to find gain (β): 
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/Calc_Gain.jpg" width="100">
   <br>
@@ -210,4 +211,4 @@ Meeting the current needs of the LED with the switch proved to be challenging in
 
 
 ## Conclusion
-Summary of findings and key takeaways.
+The goal of this lab was to explore the functionality and the importance of transistors as switches and their role in controlling circuits. By building various circuit configurations, we examined voltage drops, current flow, and transistor characteristics in LED and motor control applications. The work involved building multiple circuits, measuring voltages and currents, and analyzing transistor performance in different configurations. We observed how transistors amplify small currents to control larger loads, making them essential for driving higher-power components such as motors. Through our findings, we confirmed that transistors effectively regulate voltage and current, improving circuit efficiency. Our measurements indicated that transistors in saturation mode provide minimal voltage drop, allowing for efficient switching. Additionally, we found that motors require significantly more current than LEDs, necessitating the use of a transistor to handle the higher current demand. The outcome provided valuable insights into how transistors regulate current and voltage, effectively acting as electronic switches. This lab reinforced the practical importance of transistors in circuit design and highlighted the need for precise voltage and current measurements to optimize performance.
