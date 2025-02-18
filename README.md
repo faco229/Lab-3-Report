@@ -19,13 +19,15 @@ To repeat this experiment, a few components will be needed:
 - TIP31C transistor
 
 To repeat this experiment, a few components will be needed. These components are a digital multimeter (DMM), DC power supply, 2.2-ohm, 270-ohm, and 1000-ohm resistor. More components such as any type of LED, a sliding switch, an electric motor, a NTE 125 diode, a 1000-ohm trimmer potentiometer, and a TIP31C transistor. 
-Before going any further in the experiment, all resistors and capacitors should be measured with the DMM. To measure the resistance, have the DMM set to measure the resistance and connect the nodes to the ends of each resistor and record the values to compare to what they should be theoretically. The DMM should read in ohms (). Do the same for the capacitors, however, make sure the DMM is set to read capacitance the units should be in farads ().
-The first task in this experiment involves building a small circuit with the 270-ohm resistor, and LED, and a switch. Before building the circuit, record the resistor values of the resistor(s) being used in that specific circuit. The first circuit should look as follows:
 
-Before proceeding, all resistors and capacitors should be measured using a DMM.
+Before going any further in the experiment, all resistors and capacitors should be measured with the DMM. To measure the resistance, have the DMM set to measure the resistance and connect the nodes to the ends of each resistor and record the values to compare to what they should be theoretically. The DMM should read in ohms (). Do the same for the capacitors, however, make sure the DMM is set to read capacitance the units should be in farads ().
+
+The first task in this experiment involves building a small circuit with the 270-ohm resistor, and LED, and a switch. Before building the circuit, record the resistor values of the resistor(s) being used in that specific circuit. The first circuit should look as follows:
 
 ### Circuit 1
 **Figure 1: Circuit 1 – A resistor, LED, and switch in series with five volts supplied.**  
+
+Before proceeding, all resistors and capacitors should be measured using a DMM. For these measurements, see Table 1.
 
 Measure voltage at test points T1, T2, T3, and T4. Once the circuit is built, make sure that the DC power supply is set for five volts and measure the voltage output with the DMM. Make sure that the output on the DMM is no more or no less than 5.01 or 4.99 volts. 
 Now that the voltage is secure, and the circuit is built we can begin measuring our voltages at each of the testing points. These are labeled T1, T2, T3, and T4. Be aware when measuring the voltage at each of these testing points with the DMM it should be with respect to ground, in this case, T4. Therefore, the black node of the DMM should be placed here when measuring throughout the experiment. If the red node of the DMM were placed here, a negative reading would show, that is why the black node is preferred in this scenario. Here are the testing locations:
