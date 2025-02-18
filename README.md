@@ -57,8 +57,14 @@ The next circuit that will be built is a bit bigger and should look as follows:
   <b>Image 1:</b> Completed LED circuit - LED at full brightness.
 </p>
 
-**INSERT THE PART QUINN IS WORKING ON**
+As always, before building the circuit ensure that resistor values are measured with the DMM and recorded on a table to be used later for analysis. Here in this circuit at T7 the 5V DC output needs to be connected and at T1 the main output should be connected. With a similar process to the first circuit, the voltages will be measured across each element with respect to ground, again in this case T4. With the DMM set to read in volts, and the black node of the DMM set on T4, begin measuring the voltage drops at T2, T3, T5, and T6 with the switch on and the switch off. Record the results. After measuring the different testing locations, now measure the voltage drop across R1, the LED, R2, and S1, with the switch on and with the switch off and record the results. After all the voltages have been recorded, switch the lead in the DMM to measure current and have the DMM set to read current. Disconnect part of the circuit to measure the current at the LED and R2 with the switch on and the switch off. Record these current measurements in a table. 
+The next circuit that will be built involves controlling the amount of light produced by the LED with the transistor. Like the last circuits, the voltage across different testing locations and elements of the circuit will be measured. However, this circuit does not involve a switch. Therefore, instead of comparing the values of the voltage with the switch on or off, the values that are recorded at different LED light levels will be compared. For instance, there will be a dim mode, essentially the lowest amount of light the LED can produce, two midway points, and lastly the brightest the LED can show. Here is what the circuit should look like:
 
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Image%204.jpg" width="500">
+  <br>
+  <b>Figure 4:</b> Circuit 3 - two resistors, a potentiometer, an LED, and a transistor.
+</p>
 
 
 ## Results
@@ -108,7 +114,7 @@ After using the potentiometer to change the voltage, the following tables and gr
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/LED%20Brightness%20Characteristics%20Graph.jpg" width="600">
   <br>
-  <b>Figure 4:</b> LED Brightness Characteristics Graph
+  <b>Figure 5:</b> LED Brightness Characteristics Graph
 </p>
 
 
@@ -130,7 +136,7 @@ After using the potentiometer to change the voltage, the following tables and gr
 <p align="center">
   <img src="https://github.com/faco229/Lab-3-Report/blob/main/Transistor%20Characteristics%20Graph.jpg" width="600">
   <br>
-  <b>Figure 5:</b> Transistor Characteristics Graph
+  <b>Figure 6:</b> Transistor Characteristics Graph
 </p>
 
 <p align="center">
