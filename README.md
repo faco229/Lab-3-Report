@@ -51,6 +51,10 @@ The next circuit that will be built is a bit bigger and should look as follows:
   <b>Figure 3:</b> Circuit 2 – Two voltage supplies, potentiometer, 1000-ohm and 270-ohm resistor, and LED.
 </p>
 
+**INSERT THE PART QUINN IS WORKING ON**
+
+
+
 ## Results
 ### Part 1: LED Driving Circuits
 #### Table 1: Real Values of Resistors
@@ -77,6 +81,8 @@ The following data was collected based on the circuit configuration in Figure 2:
 | Current Through | Switch On | Switch Off |
 | LED1          | 11.33mA   | 0.02mA     |
 
+
+The data in the following table (Table 3), is from the circuit shown in Figure 3:
 #### Table 3: Measurements on a circuit with an LED connected through a transistor
 | Test Point | Voltage (Switch On) | Voltage (Switch Off) |
 |-----------|-------------------|-------------------|
@@ -126,8 +132,12 @@ After using the potentiometer to change the voltage, the following tables and gr
 - T2 (Collector Voltage): **VC = 4.76V**
 - T3 (Emitter Voltage): **VE = 4.66V**
 
-\[V_{CE} = V_C - V_E\]  
-\[V_{CE} = 4.76V - 4.66V = 0.1V\]  
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Calc_discussion1.jpg" width="400">
+  <br>
+  <b>Equation 1:</b> Transistor Characteristics Graph
+</p>
+
 
 - **Measured VCE in LED Circuit:** 0.022V
 - **Measured VCE in Motor Circuit:** 0.1V
@@ -135,11 +145,17 @@ After using the potentiometer to change the voltage, the following tables and gr
 The motor circuit has a higher VCE due to its greater current demand.
 
 ### Discussion Question 2: Comparison with Datasheet VCE
+The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We would like a much smaller value, such as the fraction of a volt that you measured in the first circuit across the switch, S1, when it is on. How does your measured VCE compare to the one listed in the datasheet? Do you think we are operating this transistor in the saturation region?
+
 - **Voltage across R1 (Fast Setting):** VR1 = 0.210V
 - **R1 = 2.2Ω**
 
-\[I = \frac{V}{R}\]  
-\[I_{Motor} = \frac{0.210V}{2.2Ω} = 91.5mA\]
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Calc_discussion2.jpg" width="400">
+  <br>
+  <b>Equation 2:</b> Transistor Characteristics Graph
+</p>
+
 
 - **Current through LED circuit:** 18.3mA
 - **Current through Motor Circuit:** 91.5mA
