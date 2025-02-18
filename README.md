@@ -127,6 +127,13 @@ After using the potentiometer to change the voltage, the following tables and gr
   <b>Figure 5:</b> Transistor Characteristics Graph
 </p>
 
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Motor%20attached%20to%20circuit%20at%20fast%20speed.jpg" width="500">
+  <br>
+  <b>Image 2:</b> Circuit used for esting various motor speeds.
+</p>
+
+
 ## Discussion
 ### Discussion Question 1: How does the current through the LED compare between circuits 1 and 2?
 - T2 (Collector Voltage): **VC = 4.76V**
