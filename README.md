@@ -160,7 +160,9 @@ The datasheet mentions a maximum voltage drop (VCE) of 1.2V at saturation. We wo
 - **Current through LED circuit:** 18.3mA
 - **Current through Motor Circuit:** 91.5mA
 
-Motors draw significantly more current than LEDs. The transistor allows for higher current flow necessary for the motor.
+The motor draws roughly five times more current than the LED circuit configuration.
+Meeting the current needs of the LED with the switch proved to be challenging in this lab (needed 18.3mA), so it would not be able to support the motor directly (needing 91.5mA). The transistor is needed since it amplifies the IB to allow for higher current flow through the motor.
+
 
 ## Conclusion
 Summary of findings and key takeaways.
