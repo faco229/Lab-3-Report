@@ -39,8 +39,11 @@ Measure voltage at test points T1, T2, T3, and T4. Once the circuit is built, ma
 Now that the voltage is secure, and the circuit is built we can begin measuring our voltages at each of the testing points. These are labeled T1, T2, T3, and T4. Be aware when measuring the voltage at each of these testing points with the DMM it should be with respect to ground, in this case, T4. Therefore, the black node of the DMM should be placed here when measuring throughout the experiment. If the red node of the DMM were placed here, a negative reading would show, that is why the black node is preferred in this scenario. Here are the testing locations:
 
 
-**Figure 2: Testing Locations for Circuit 1**  
-
+<p align="center">
+  <img src="https://github.com/faco229/Lab-3-Report/blob/main/Fig2-testing%20for%20circuit%201.jpg" width="120">
+  <br>
+  <b>Figure 1:</b> Testing Locations for Circuit 1.
+</p>
 
 ## Results
 ### Part 1: LED Driving Circuits
